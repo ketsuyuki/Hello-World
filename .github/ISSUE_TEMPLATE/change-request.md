@@ -16,6 +16,9 @@ assignees: ''
 **Type**
  For example, "Top-Level Requirement", "Requirement for the FDA approval", or "Feature suggested by a doctor" etc..
 
+**Associate DocDB entry**
+Link to a DocDB entry for this Change Request.
+
 **Problem description**
  Detailed descriptions of the problem.
 
